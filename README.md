@@ -1,38 +1,99 @@
-<h1 align="center">Hi 👋, I'm Antonio Xoyoc Becerra Farias</h1>
-<h3 align="center">A passionate frontend developer from Cd. Lázaro Cárdenas México</h3>
+# 👋 Hola, soy Antonio Xoyoc
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xoyoc&label=Profile%20views&color=0e75b6&style=flat" alt="xoyoc" /> </p>
+<div align="center">
+  
+  ![Banner](https://img.shields.io/badge/Desarrollador-Full%20Stack-blue?style=for-the-badge)
+  ![Location](https://img.shields.io/badge/📍-Cd.%20Lázaro%20Cárdenas,%20Mich.-green?style=for-the-badge)
+  
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xoyoc" alt="xoyoc" /></a> </p>
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on [Plataforma AAALAC V2](https://plataforma.aaalac.mx)
+Soy desarrollador full-stack apasionado por la tecnología, el desarrollo web y la aviación con drones FPV. Me especializo en crear soluciones web modernas y funcionales, combinando creatividad con código limpio.
 
-- 👯 I’m looking to collaborate on [Plataforma AAALAC V1](https://sistema.aaalac.mx)
+- 🌐 **Web**: [xoyoc.net](https://xoyoc.net)
+- ✍️ **Blog**: Escribo regularmente sobre desarrollo y tecnología en [xoyoc.net](https://xoyoc.net)
+- 🎥 **YouTube**: [@antonioxoyocbecerrafarias7810](https://www.youtube.com/@antonioxoyocbecerrafarias7810)
+- 📧 **Email**: xoyocl2@gmail.com
 
-- 🤝 I’m looking for help with [Plataforma SIGA de Loginco](https://siga.loginco.com.mx)
+## 💻 Stack Tecnológico
 
-- 👨‍💻 All of my projects are available at [https://xoyoc.net](https://xoyoc.net)
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-- 📝 I regularly write articles on [https://xoyoc.net](https://xoyoc.net)
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-- 💬 Ask me about **react and python**
+### Herramientas & Otros
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-- 📫 How to reach me **xoyocl2@gmail.com**
+## 🔭 Proyectos Destacados
 
-- 📄 Know about my experiences [https://xoyoc.net](https://xoyoc.net)
+### 🏢 Plataforma AAALAC V2
+Plataforma web para la Asociación de Agentes Aduanales de Lázaro Cárdenas
+- 🔗 [Ver proyecto](https://plataforma.aaalac.mx)
+- 💡 Tecnologías: React, Python
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/antonioxoyoc.becerrafarias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="antonioxoyoc.becerrafarias" height="30" width="40" /></a>
-<a href="https://instagram.com/xoyocnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xoyocnet" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/antonioxoyocbecerrafarias7810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="antonioxoyocbecerrafarias7810" height="30" width="40" /></a>
-</p>
+### 🏢 Sistema SIGA - Loginco
+Sistema de gestión administrativa
+- 🔗 [Ver proyecto](https://siga.loginco.com.mx)
+- 💡 Gestión de procesos empresariales
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### 🚁 Contenido de Drones FPV
+Creación de contenido sobre vuelo inmersivo y exploración con drones
+- 📝 [Lee mis artículos](https://xoyoc.net/blog)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xoyoc&show_icons=true&locale=en&layout=compact" alt="xoyoc" /></p>
+## 📊 Estadísticas de GitHub
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xoyoc&show_icons=true&locale=en" alt="xoyoc" /></p>
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xoyoc&show_icons=true&theme=radical&hide_border=true)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoyoc&layout=compact&theme=radical&hide_border=true)
+  
+</div>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xoyoc&" alt="xoyoc" /></p> -->
+## 💬 Hablemos de...
+
+- ⚛️ React y desarrollo frontend moderno
+- 🐍 Python y automatización
+- 🚁 Drones FPV y fotografía aérea
+- 🌐 Desarrollo web full-stack
+- 📱 Soluciones digitales para empresas
+
+## 🤝 Colaboremos
+
+Siempre estoy abierto a colaborar en proyectos interesantes, especialmente en:
+- Aplicaciones web con React
+- Automatización con Python
+- Proyectos open source
+- Plataformas empresariales
+
+## 📫 Contacto
+
+<div align="center">
+  
+  [![Website](https://img.shields.io/badge/🌐-xoyoc.net-blue?style=for-the-badge)](https://xoyoc.net)
+  [![Email](https://img.shields.io/badge/📧-xoyocl2@gmail.com-red?style=for-the-badge)](mailto:xoyocl2@gmail.com)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@antonioxoyocbecerrafarias7810)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xoyocnet)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/antonioxoyoc.becerrafarias)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  **💙 Gracias por visitar mi perfil**
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=xoyoc&color=blueviolet&style=flat-square)
+  
+</div>
