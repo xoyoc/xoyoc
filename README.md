@@ -12,7 +12,6 @@
 Soy desarrollador full-stack apasionado por la tecnología, el desarrollo web y la aviación con drones FPV. Me especializo en crear soluciones web modernas y funcionales, combinando creatividad con código limpio.
 
 - 🌐 **Web**: [xoyoc.net](https://xoyoc.net)
-- ✍️ **Blog**: Escribo regularmente sobre desarrollo y tecnología en [xoyoc.net](https://xoyoc.net)
 - 🎥 **YouTube**: [@antonioxoyocbecerrafarias7810](https://www.youtube.com/@antonioxoyocbecerrafarias7810)
 - 📧 **Email**: xoyocl2@gmail.com
 
